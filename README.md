@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «2.3. Patterns»
+# Домашнее задание к занятию «2.3. Patterns»    [![Build status](https://ci.appveyor.com/api/projects/status/472ln0gmocr0ha3f?svg=true)](https://ci.appveyor.com/project/Uelsky/hw-java-patterns-1)
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
 
